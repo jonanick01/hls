@@ -1,7 +1,7 @@
 # Change input and output details
 
 output_path="thDB/spider" # Output Path (Same will be pushed in main also)
-input_url="https://index.jonatv.workers.dev/0:/Movies/Spider-Man.No.Way.Home.mkv" # Input direct file url
+input_url="https://index.jonatv.workers.dev/0:/Movies/Bob.Biswas.mkv" # Input direct file url
 input_extension="mkv" # Extension of file url
 
 
