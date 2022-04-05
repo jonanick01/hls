@@ -1,8 +1,8 @@
 # Change input and output details
 
-output_path="Elite/S1E1" # Output Path (Same will be pushed in main also)
+output_path="Elite S1E1" # Output Path (Same will be pushed in main also)
 input_url="https://p-def6.pcloud.com/cfZDjQL3TZ4rzvp6ZP9Tm7Z7ZJmC5r7Ze5ZZzoLZZmkdhvZoFZnHZnFZl7Z1pZDzZUJZoJZozZfFZhzZd5ZpHZ3HZLzE1239fM7yYVzgyet45yVIQGOo7/ELITE%20.%202018%20.%20S01%20EP01%20-%20Welcome.mkv" # Input direct file url
-input_extension="mp4" # Extension of file url
+input_extension="mkv" # Extension of file url
 
 
 
